@@ -1,6 +1,11 @@
 CHANGELOG
 =========
 
+7.4
+---
+
+* Add `--duration` option to `messenger:stop-workers` command to keep workers in paused state.
+
 7.3
 ---
 
